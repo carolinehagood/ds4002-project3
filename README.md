@@ -45,8 +45,11 @@ Caroline Hagood, Maggie Welch, Emmanuella Cann
 ## References
 
 [1] Deepanshi, “Convolutional Neural Network with Implementation in Python,” Analytics Vidhya, Aug. 14, 2021. https://www.analyticsvidhya.com/blog/2021/08/beginners-guide-to-convolutional-neural-network-with-implementation-in-python/
+
 ‌[2] IBM, “What are Convolutional Neural Networks? | IBM,” www.ibm.com, 2024. https://www.ibm.com/topics/convolutional-neural-networks
-‌[3] Rob Mulla, “Image Processing with OpenCV and Python,” YouTube, Mar. 20, 2022. https://www.youtube.com/watch?v=kSqxn6zGE0c (accessed Oct. 18, 2024).
+
+‌[3] Rob Mulla, “Image Processing with OpenCV and Python,” YouTube, Mar. 20, 2022. https://www.youtube.com/watch?v=kSqxn6zGE0c (accessed Oct. 18, 2024)
+
 ‌[4] “Stanford Dogs dataset for Fine-Grained Visual Categorization,” vision.stanford.edu. http://vision.stanford.edu/aditya86/ImageNetDogs/
 
 ‌
