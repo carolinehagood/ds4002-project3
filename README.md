@@ -5,6 +5,8 @@ Our project seeks to classify dog breeds based on images. This task presents uni
 This model can have practical applications, such as aiding animal shelters in identifying mixed-breed dogs, supporting veterinary practices with breed-specific health issues, and enhancing user experience in pet focused mobile apps. Through this project, we hope to contribute insights into the strengths and limitations of CNNs in specialized image classification tasks. 
 
 
+
+
 Caroline Hagood, Maggie Welch, Emmanuella Cann
 
 
