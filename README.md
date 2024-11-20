@@ -6,7 +6,7 @@ Caroline Hagood, Maggie Welch, Emmanuella Cann
 
 ## Software and Platform
 
-
+This project was developed using Python and the University of Virginia's supercomputer, Rivanna. It includes key functionalities such as data preprocessing and normalization, visualization, merging, splitting, convolutional neural network design, model training and tuning, and model evaluation. A range of python packages were used to achieve these tasks:
    - pandas
    - numpy
    - matplotlib
