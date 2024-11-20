@@ -1,5 +1,9 @@
 ## IDENTIFYING DOG BREEDS FROM IMAGE DATA
 
+Our project seeks to classify dog breeds based on images. This task presents unique challenges because different breeds can have subtle visual distinctions, such as fur texture, ear shape, and size. Our project aims to use a Convolutional Neural Network (CNN) to identify intricate visual patterns to build a robust model that accurately distinguishes among a diverse range of dog breeds. 
+
+This model can have practical applications, such as aiding animal shelters in identifying mixed-breed dogs, supporting veterinary practices with breed-specific health issues, and enhancing user experience in pet focused mobile apps. Through this project, we hope to contribute insights into the strengths and limitations of CNNs in specialized image classification tasks. 
+
 
 Caroline Hagood, Maggie Welch, Emmanuella Cann
 
