@@ -30,6 +30,9 @@ Caroline Hagood, Maggie Welch, Emmanuella Cann
    - scripts/project3_loadingdata.ipynb
    
 3. Output
+      - output/Breed_dist.png
+      - output/Maltese_dog.png
+      - output/Mean_SD_pixelValues.png
    
 
 
