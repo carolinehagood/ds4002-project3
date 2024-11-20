@@ -7,7 +7,14 @@ Caroline Hagood, Maggie Welch, Emmanuella Cann
 ## Software and Platform
 
 
-
+   - pandas
+   - numpy
+   - matplotlib
+   - sklearn
+   - tensorflow
+   - requests
+   - gzip
+   - io.BytesIO
 
 
 ## Map of Documentation
@@ -48,8 +55,12 @@ Caroline Hagood, Maggie Welch, Emmanuella Cann
 
 ‌[2] IBM, “What are Convolutional Neural Networks? | IBM,” www.ibm.com, 2024. https://www.ibm.com/topics/convolutional-neural-networks
 
-‌[3] Rob Mulla, “Image Processing with OpenCV and Python,” YouTube, Mar. 20, 2022. https://www.youtube.com/watch?v=kSqxn6zGE0c (accessed Oct. 18, 2024)
+[3] K. Marshall, “How does epoch affect accuracy?,” Deepchecks, May 26, 2024. https://www.deepchecks.com/question/how-does-epoch-affect-accuracy/
 
-‌[4] “Stanford Dogs dataset for Fine-Grained Visual Categorization,” vision.stanford.edu. http://vision.stanford.edu/aditya86/ImageNetDogs/
+‌[4] Rob Mulla, “Image Processing with OpenCV and Python,” YouTube, Mar. 20, 2022. https://www.youtube.com/watch?v=kSqxn6zGE0c (accessed Oct. 18, 2024)
+
+‌[5] “Stanford Dogs dataset for Fine-Grained Visual Categorization,” vision.stanford.edu. http://vision.stanford.edu/aditya86/ImageNetDogs/
+
+
 
 ‌
