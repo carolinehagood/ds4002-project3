@@ -37,9 +37,15 @@ This project was developed using Python and the University of Virginia's superco
    - scripts/CNN-40.ipynb
    
 3. Output
+      - output/Accuracy_train_val.png
       - output/Breed_dist.png
+      - output/Breed_dist_clean.png
+      - output/Confusion_Matrix.png
+      - output/Epochs_Accuracy.png
       - output/Maltese_dog.png
       - output/Mean_SD_pixelValues.png
+      - output/Test_Accuracy.png
+      - output/Train_Accuracy.png
    
 
 
@@ -53,7 +59,7 @@ This project was developed using Python and the University of Virginia's superco
 
   ```pip install -r requirements.txt ```
   
-- Download [original dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/), and run [new_loadingdata.py](https://github.com/carolinehagood/ds4002-project3/blob/main/scripts/new_loadingdata.ipynb) script to get image files relating to chosen dog breeds (pug, maltese, beagle, golden retriever, and german shepherd). Since this step is computationally expensive and time consuming, see data folder for [output] (https://github.com/carolinehagood/ds4002-project3/tree/main/Data). 
+- Download [original dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/), and run [new_loadingdata.py](https://github.com/carolinehagood/ds4002-project3/blob/main/scripts/new_loadingdata.ipynb) script to get image files relating to chosen dog breeds (pug, maltese, beagle, golden retriever, and german shepherd). Since this step is computationally expensive and time consuming, see data folder for [output](https://github.com/carolinehagood/ds4002-project3/tree/main/Data). 
 
 - Run [CNN-40 script](https://github.com/carolinehagood/ds4002-project3/blob/main/scripts/CNN-40.ipynb) to select images, normalize data, visualize, design, build, and evaluate model. 
 
