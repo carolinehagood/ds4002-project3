@@ -52,7 +52,9 @@ This project was developed using Python and the University of Virginia's superco
 
   ```pip install -r requirements.txt ```
   
-- Download original dataset from references (5), and select data of the five breeds( Maltese, Pug, Beagle, Golden Retriever, and German Shephard)
+- Download original dataset from references (5), and run new_loadingdata.py script to get image files relating chosen dog breeds (maltese, beagle, golden retriever, and german shepherd). Since this step is computationally expensive and time consuming, see data folder for output. 
+
+- Run CNN-40 to select image file, normalize data, visualize, design, build, and evaluate model. 
 
 
 
