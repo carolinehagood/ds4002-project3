@@ -33,7 +33,8 @@ This project was developed using Python and the University of Virginia's superco
    - data/n02110958-pug.csv.gz
    
 2. Scripts
-   - scripts/project3_loadingdata.ipynb
+   - scripts/new_loadingdata.ipynb
+   - scripts/CNN-40.ipynb
    
 3. Output
       - output/Breed_dist.png
@@ -52,9 +53,9 @@ This project was developed using Python and the University of Virginia's superco
 
   ```pip install -r requirements.txt ```
   
-- Download original dataset from references (5), and run new_loadingdata.py script to get image files relating chosen dog breeds (maltese, beagle, golden retriever, and german shepherd). Since this step is computationally expensive and time consuming, see data folder for output. 
+- Download original dataset [http://vision.stanford.edu/aditya86/ImageNetDogs/], and run new_loadingdata.py[https://github.com/carolinehagood/ds4002-project3/blob/main/scripts/new_loadingdata.ipynb] script to get image files relating to chosen dog breeds (pug, maltese, beagle, golden retriever, and german shepherd). Since this step is computationally expensive and time consuming, see data folder for output [https://github.com/carolinehagood/ds4002-project3/tree/main/Data]. 
 
-- Run CNN-40 to select image file, normalize data, visualize, design, build, and evaluate model. 
+- Run CNN-40 script[https://github.com/carolinehagood/ds4002-project3/blob/main/scripts/CNN-40.ipynb] to select images, normalize data, visualize, design, build, and evaluate model. 
 
 
 
